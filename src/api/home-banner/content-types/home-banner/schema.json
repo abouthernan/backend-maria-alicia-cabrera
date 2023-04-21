@@ -32,6 +32,14 @@
       "allowedTypes": [
         "images"
       ]
+    },
+    "pdf": {
+      "allowedTypes": [
+        "files"
+      ],
+      "type": "media",
+      "multiple": false,
+      "required": true
     }
   }
 }
