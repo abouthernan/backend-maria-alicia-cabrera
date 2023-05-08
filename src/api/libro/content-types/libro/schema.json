@@ -28,17 +28,13 @@
       "type": "richtext",
       "required": true
     },
-    "pdf": {
-      "type": "media",
-      "multiple": false,
-      "required": true,
-      "allowedTypes": [
-        "files"
-      ]
-    },
     "slug": {
       "type": "uid",
       "targetField": "title",
+      "required": true
+    },
+    "PDF": {
+      "type": "string",
       "required": true
     }
   }
