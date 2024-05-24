@@ -33,11 +33,11 @@
       "targetField": "title",
       "required": true
     },
-    "english": {
+    "Verisón en Español": {
       "type": "string",
       "required": true
     },
-    "spanish": {
+    "Versión en Inglés": {
       "type": "string",
       "required": true
     }
