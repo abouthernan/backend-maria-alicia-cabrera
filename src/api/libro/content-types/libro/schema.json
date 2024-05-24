@@ -33,7 +33,11 @@
       "targetField": "title",
       "required": true
     },
-    "PDF": {
+    "english": {
+      "type": "string",
+      "required": true
+    },
+    "spanish": {
       "type": "string",
       "required": true
     }
