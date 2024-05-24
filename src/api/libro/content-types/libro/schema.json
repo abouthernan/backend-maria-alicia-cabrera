@@ -33,7 +33,7 @@
       "targetField": "title",
       "required": true
     },
-    "Verisón en Español": {
+    "Versión en Español": {
       "type": "string",
       "required": true
     },
