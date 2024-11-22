@@ -35,11 +35,11 @@
     },
     "Versión en Español": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "Versión en Inglés": {
       "type": "string",
-      "required": true
+      "required": false
     }
   }
 }
