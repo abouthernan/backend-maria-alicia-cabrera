@@ -20,9 +20,7 @@
       "type": "media",
       "multiple": false,
       "required": true,
-      "allowedTypes": [
-        "images"
-      ]
+      "allowedTypes": ["images"]
     },
     "description": {
       "type": "richtext",
@@ -33,11 +31,11 @@
       "targetField": "title",
       "required": true
     },
-    "Versión en Español": {
+    "spanishVersion": {
       "type": "string",
       "required": false
     },
-    "Versión en Inglés": {
+    "englishVersion": {
       "type": "string",
       "required": false
     }
