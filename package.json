@@ -12,10 +12,10 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-i18n": "4.7.1",
-    "@strapi/plugin-users-permissions": "4.7.1",
-    "@strapi/provider-upload-cloudinary": "4.9.2",
-    "@strapi/strapi": "4.7.1",
+    "@strapi/plugin-i18n": "4.25.9",
+    "@strapi/plugin-users-permissions": "4.25.9",
+    "@strapi/provider-upload-cloudinary": "4.25.9",
+    "@strapi/strapi": "4.25.9",
     "mysql": "2.18.1"
   },
   "author": {
